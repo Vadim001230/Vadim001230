@@ -35,4 +35,4 @@
 
 ### :computer: Recent Projects:
  - [Chat](https://github.com/Vadim001230/chat/tree/develop)
- - [Twitter Clone (command task)](https://glhttps://threetter.netlify.app/) [**repo**](https://github.com/YazykovaDaria/rs-clone/tree/develop)
+ - [Twitter Clone (command task)](https://https://threetter.netlify.app/) [**repo**](https://github.com/YazykovaDaria/rs-clone/tree/develop)
