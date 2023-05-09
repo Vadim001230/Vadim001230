@@ -34,8 +34,8 @@
 ---
 
 ### :computer: Projects:
- - [Chat](https://chat-vadim001230.netlify.app)[**repo**](https://github.com/Vadim001230/chat/tree/develop)
- - [Twitter Clone (command task)](https://threetter.netlify.app/) [**repo**](https://github.com/YazykovaDaria/rs-clone/tree/develop)
+ - [Chat](https://chat-vadim001230.netlify.app) | [**repo**](https://github.com/Vadim001230/chat/tree/develop)
+ - [Twitter Clone (command task)](https://threetter.netlify.app/) | [**repo**](https://github.com/YazykovaDaria/rs-clone/tree/develop)
  - [Online-store](https://vadim001230-yal0-online-store.netlify.app)
  - [Online-zoo](https://rolling-scopes-school.github.io/vadim001230-JSFE2022Q3/online-zoo/pages/landing/)
  - [Shelter](https://rolling-scopes-school.github.io/vadim001230-JSFE2022Q1/shelter/pages/main/)
