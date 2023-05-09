@@ -33,6 +33,20 @@
 
 ---
 
-### :computer: Recent Projects:
- - [Chat](https://github.com/Vadim001230/chat/tree/develop)
+### :computer: Projects:
+ - [Chat](https://chat-vadim001230.netlify.app)[**repo**](https://github.com/Vadim001230/chat/tree/develop)
  - [Twitter Clone (command task)](https://threetter.netlify.app/) [**repo**](https://github.com/YazykovaDaria/rs-clone/tree/develop)
+ - [Online-store](https://vadim001230-yal0-online-store.netlify.app)
+ - [Online-zoo](https://rolling-scopes-school.github.io/vadim001230-JSFE2022Q3/online-zoo/pages/landing/)
+ - [Shelter](https://rolling-scopes-school.github.io/vadim001230-JSFE2022Q1/shelter/pages/main/)
+ - [Songbird](https://rolling-scopes-school.github.io/vadim001230-JSFE2022Q3/songbird/pages/home/index.html)
+ - [Gem-Puzzle](https://vadim001230-gem-puzzle.netlify.app)
+ - [Portfolio](https://rolling-scopes-school.github.io/vadim001230-JSFEPRESCHOOL/portfolio/)
+ - [Async-race](https://vadim001230-async-race.netlify.app)
+ - [Audio-player](https://rolling-scopes-school.github.io/vadim001230-JSFEPRESCHOOL/audio-player/)
+ - [Randome-quote]( https://rolling-scopes-school.github.io/vadim001230-JSFEPRESCHOOL/js30-random-jokes/)
+ - [Tic tac toe](https://rolling-scopes-school.github.io/vadim001230-JSFEPRESCHOOL/js30-tic-tac-toe/)
+ - [CSS Mem Slider](https://vadim001230.github.io/cssMemSlider/cssMemSlider/index.html)
+ - [SVG Presentation](https://vadim001230-presentation-svg.netlify.app)
+ - [Virtual Keyboard](https://vadim001230-vr-keyboard.netlify.app/)
+
