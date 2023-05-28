@@ -34,6 +34,7 @@
 ---
 
 ### :computer: Projects:
+ - [Bar-karaoke](https://bar-phi.vercel.app/) | [**repo**](https://github.com/Vadim001230/Bar)
  - [Chat](https://chat-vadim001230.netlify.app) | [**repo**](https://github.com/Vadim001230/chat/tree/develop)
  - [Twitter Clone (command task)](https://threetter.netlify.app/) | [**repo**](https://github.com/YazykovaDaria/rs-clone/tree/develop)
  - [Online-store](https://vadim001230-yal0-online-store.netlify.app)
