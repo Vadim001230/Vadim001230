@@ -52,5 +52,3 @@
  - [SVG Presentation](https://vadim001230-presentation-svg.netlify.app)
  - [Virtual Keyboard](https://vadim001230-vr-keyboard.netlify.app/)
    
-> [!WARNING]
-> Dangerous certain consequences of an action.
