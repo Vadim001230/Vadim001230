@@ -35,6 +35,7 @@
 ---
 
 ### :computer: Projects:
+ - [BrowserOS](https://github.com/Vadim001230/BrowserOS)
  - [Bar-karaoke](https://bar-phi.vercel.app/) | [**repo**](https://github.com/Vadim001230/Bar)
  - [Chat](https://github.com/Vadim001230/chat/tree/develop)
  - [Twitter Clone (command task)](https://threetter.netlify.app/) | [**repo**](https://github.com/YazykovaDaria/rs-clone/tree/develop)
